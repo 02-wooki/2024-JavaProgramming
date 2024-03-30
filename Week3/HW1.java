@@ -1,4 +1,4 @@
-package task.week3;
+// 자바프로그래밍 3주차 과제
 
 public class HW1 {
     public static void main(String[] args) {

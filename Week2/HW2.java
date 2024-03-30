@@ -1,4 +1,4 @@
-package task.week2;//2024-1 자바프로그래밍 2주차 과제
+//2024-1 자바프로그래밍 2주차 과제
 //2021763040 성현욱
 
 import java.util.Scanner;
